@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Tsinghua University, Beijing, China, 2019
+* Ph.D in Civil Engineering, University of Michigan, Ann Arbor, USA, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2018 - September 2018: Summer Research Intern
+  * University of Michigan, Ann Arbor, USA
+  * Accelerated evaluation of safety performance of connected and automated vehicles
+  * Supervisor: Henry X. Liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* October 2018 - June 2019: Intern
+  * DiDi Chuxing
+  * Roadside perception for autonomous driving
+  * Supervisor: Yifeng Wang
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language
+  * Mandarin (Native)
+  * English (Fluent)
+* Programming
+  * Python
+  * Matlab
+  * Html & CSS
+  * C++
+* Machine Learning
+  * Deep Learning
+  * Deep Reinforcement Learning
 
 Publications
 ======
